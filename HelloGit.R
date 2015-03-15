@@ -11,3 +11,5 @@ plot(X,y)
 
 
 
+print(X)
+
